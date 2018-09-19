@@ -10,13 +10,6 @@ A back-end implementation for facial emotion sensing using AWS Rekognition REST 
 2) Return the mood frequency distribution for a given user (GET request to http://localhost/api/Mood/ with your user credentials to verify your mood stats. Also you can use http://localhost/api/stats/?userid= to know other user stats for which you need admin access.)
 3) Return the proximity to locations (home, office, shopping center,…) where a given user is happy. (Using the http://localhost/api/happyplaces/?userid= GET request)
 
-## Getting Started 
-pip install requirements.txt 
-python manage.py runserver 80
-
-
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 In order to use and keep safe your credentials
@@ -51,7 +44,7 @@ localhost/admin
 user name:admin
 password:Welcome1
 
-
+![alt text](https://raw.githubusercontent.com/adankro/Mood-sensing-app/branch/master/Admin.png)
 ## Running the tests
 
 
