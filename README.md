@@ -44,7 +44,7 @@ localhost/admin
 user name:admin
 password:Welcome1
 
-![Admin Scren](https://raw.githubusercontent.com/adankro/Mood-sensing-app/branch/master/Admin.png)
+![Admin Scren](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/Admin.JPG)
 ## Running the tests
 
 
