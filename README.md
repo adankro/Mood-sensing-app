@@ -51,6 +51,7 @@ You can test with POSTMAN Pluggin:
 ![POST MAN TEST](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/POSTMAN2.JPG)
 
 Or direct Browsing the url:
+![moods API](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/Moods.JPG)
 ![STATS 1](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/stats1.JPG)
 ![STATS 2](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/stats2.JPG)
 
