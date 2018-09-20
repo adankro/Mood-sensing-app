@@ -23,11 +23,11 @@ VALUE:YOU SECRET KEY
 
 NAME:GEOPOSITION_GOOGLE_MAPS_API_KEY
 VALUE:GOOGLE MAPS APY  KEY
-Check detals:
+Check details:
 
 https://developers.google.com/maps/documentation/javascript/get-api-key
 
-Additional HELP TO SET UP OS ENV VARS:
+Additional HELP TO SET UP OS ENV :
 linux https://www.cyberciti.biz/faq/set-environment-variable-linux/
 Windos https://docs.microsoft.com/en-us/windows/desktop/ProcThread/environment-variables
 
@@ -51,7 +51,7 @@ password:Welcome1
 #Basic Ath
 ![POST MAN Auth](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/POSTMAN1.JPG)
 
-#Then provide your local image file tu upload and Location:
+#Then provide your local image file to upload and Location(latitude and Longitude):
 
 
 ![POST MAN TEST](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/POSTMAN2.JPG)
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-To the Tiempo Development TEAM, this is a good test!!
+To the Tiempo Development TEAM, this is a good test to warm up!!
