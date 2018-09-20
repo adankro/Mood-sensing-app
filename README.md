@@ -46,13 +46,27 @@ password:Welcome1
 
 ![Admin Scren](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/Admin.JPG)
 ## Running the tests
-You can test with POSTMAN Pluggin:
+#You can test with POSTMAN Pluggin:
+
+#Basic Ath
 ![POST MAN Auth](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/POSTMAN1.JPG)
+
+#Then provide your local image file tu upload and Location:
+
+
 ![POST MAN TEST](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/POSTMAN2.JPG)
 
-Or direct Browsing the url:
+
+
+
+#Or direct Browsing the url:
 ![moods API](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/Moods.JPG)
+
+
 ![STATS 1](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/stats1.JPG)
+
+
+
 ![STATS 2](https://raw.githubusercontent.com/adankro/Mood-sensing-app/master/stats2.JPG)
 
 
