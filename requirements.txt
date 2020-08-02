@@ -4,7 +4,7 @@ Django==2.2.13
 Django-Accounts==0.1
 django-crispy-forms==1.7.2
 django-geoposition==0.3.0
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 docutils==0.14
 jmespath==0.9.3
 Pillow==5.2.0
