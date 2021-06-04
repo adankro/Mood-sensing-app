@@ -1,6 +1,6 @@
 boto3==1.9.6
 botocore==1.12.6
-Django==2.2.13
+Django==2.2.21
 Django-Accounts==0.1
 django-crispy-forms==1.7.2
 django-geoposition==0.3.0
